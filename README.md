@@ -6,3 +6,6 @@ Just Download The Repo And Then Replace the qb-banking Folder With our qb-bankin
 
 # Preview
 ![Banking](https://media.discordapp.net/attachments/974140992582205450/997836319797547008/unknown.png?width=923&height=519)
+
+# Support
+https://discord.gg/y2h3NNxydu
